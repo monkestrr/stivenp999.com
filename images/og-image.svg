@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#250711"/><stop offset=".34" stop-color="#8d2444"/><stop offset=".55" stop-color="#c94d71"/><stop offset=".7" stop-color="#581527"/><stop offset="1" stop-color="#250711"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f5f3f0"/>
+  <path d="M48 93h1104M48 548h1104" stroke="#c9c6c3"/>
+  <g fill="#101010" font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="62" font-size="17" letter-spacing="3">INDEPENDENT CREATIVE / EST. 2022</text>
+    <text x="40" y="272" font-size="154" font-weight="800" letter-spacing="-10">STIVEN</text>
+    <text x="40" y="420" font-size="154" font-weight="800" letter-spacing="-10">PAULAVICH</text>
+    <text x="50" y="511" font-size="20" letter-spacing="1">ROOKIE DIRECTOR / MOTION DESIGNER / VIDEO EDITOR</text>
+    <text x="50" y="590" font-size="18" letter-spacing="2">CRAFTING STORIES, FRAME BY FRAME.</text>
+    <text x="1108" y="590" text-anchor="end" font-size="16">SPLICE / 001</text>
+  </g>
+  <path d="M870 153c-84-75-145 6-104 59s162 42 163 112-102 87-148 45c-58-53 42-127 103-77s44 136 101 145" fill="none" stroke="url(#r)" stroke-width="66" stroke-linejoin="round"/>
+  <path d="M783 212l46 7" stroke="#fff4de" stroke-width="9" stroke-linecap="round"/>
+</svg>

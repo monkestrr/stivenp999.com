@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+  <rect width="900" height="1600" fill="#1b1919"/>
+  <path d="M0 800H900M450 0V1600" stroke="#333030" stroke-width="1"/>
+  <rect x="245" y="450" width="410" height="700" rx="180" fill="none" stroke="#581527" stroke-width="100" transform="rotate(-14 450 800)"/>
+  <path d="M405 730L525 800 405 870Z" fill="#F5F3F0"/>
+  <text x="48" y="80" fill="#F5F3F0" font-family="Arial,sans-serif" font-size="23" letter-spacing="4">STIVEN PAULAVICH</text>
+  <text x="48" y="120" fill="#aaa5a5" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">SELECTED WORK</text>
+  <text x="48" y="1470" fill="#F5F3F0" font-family="Arial,sans-serif" font-size="34" letter-spacing="3">COVER PENDING</text>
+  <text x="48" y="1520" fill="#aaa5a5" font-family="Arial,sans-serif" font-size="20">Placeholder artwork</text>
+  <text x="48" y="1555" fill="#aaa5a5" font-family="Arial,sans-serif" font-size="20">Replace with an approved project still</text>
+</svg>
